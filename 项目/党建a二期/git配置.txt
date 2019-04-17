@@ -1,0 +1,7 @@
+git内网访问地址：http://192.168.8.215:10010
+管理员账号密码：admin
+可以修改密码和添加普通用户
+
+使用教程：https://www.2cto.com/kf/201706/650209.html
+http://git.wangtiansoft.com:10000/dangjianyun/dangjianyun-server.git
+http://git.wangtiansoft.com:10000/dangjianyun/dangjianyun-h5.git
